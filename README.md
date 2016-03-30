@@ -1,3 +1,3 @@
-# Snipcart Product Plugin Example
+# Snipcart Integration In October CMS
 
-An example of a snipcart product plugin
+A plugin example integrating Snipcart's products and buy buttons to October CMS
